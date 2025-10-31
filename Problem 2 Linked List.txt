@@ -1,0 +1,6 @@
+Problem 2: Linked List – Remove Nth Node From End of List
+Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1816858488/
+Explanation:
+Used two-pointer technique to maintain a gap of n nodes between fast and slow pointers.
+When fast reaches the end, slow points just before the node to be deleted.
+Time Complexity: O(n), Space Complexity: O(1)
