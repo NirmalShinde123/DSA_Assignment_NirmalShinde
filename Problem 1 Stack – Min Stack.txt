@@ -1,0 +1,6 @@
+Problem 1: Stack – Min Stack
+Link: https://leetcode.com/problems/min-stack/submissions/1816855799/
+Explanation :
+Used two stacks — one for all elements and another to track the minimum values.
+Each operation (push, pop, getMin) runs in O(1) time.
+Time Complexity: O(1), Space Complexity: O(n)
